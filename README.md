@@ -148,7 +148,7 @@ jupyter notebook nba_analysis.ipynb
 
 ## 👨‍💻 Author
 
-**Mehar**
+**Mehar Taj**
 Data Analytics & Machine Learning Enthusiast
 
 ---
