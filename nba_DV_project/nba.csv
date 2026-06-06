@@ -1,0 +1,458 @@
+name,team,number,position,age,height[inch],weight,college,salary
+Player_1,Boston Celtics,0,PG,25,6.2,180,Texas,7730337.0
+Player_2,Boston Celtics,99,SF,25,6.6,235,Marquette,6796117.0
+Player_3,Boston Celtics,0,SG,27,6.5,205,Boston University,
+Player_4,Boston Celtics,28,SG,22,6.5,185,Georgia State,1148640.0
+Player_5,Boston Celtics,8,PF,29,6.1,231,,5000000.0
+Player_6,Utah Jazz,41,PF,20,6.1,234,Kentucky,2239800.0
+Player_7,Utah Jazz,8,PG,26,6.3,203,Butler,2433333.0
+Player_8,Utah Jazz,25,PG,24,6.1,179,,900000.0
+Player_9,Utah Jazz,21,C,26,7.3,256,,2900000.0
+Player_10,Utah Jazz,24,C,26,7.0,231,Kansas,947276.0
+Player_11,Miami Heat,3,SG,28,6.4,210,Duke,12000000.0
+Player_12,Miami Heat,7,SF,31,6.8,225,,8500000.0
+Player_13,Chicago Bulls,12,PG,24,6.0,175,Kentucky,3200000.0
+Player_14,Chicago Bulls,44,PF,30,6.9,245,,15000000.0
+Player_15,Chicago Bulls,9,SG,27,6.5,200,Texas,6700000.0
+Player_16,Golden State Warriors,30,PG,34,6.2,185,Davidson,48070014.0
+Player_17,Golden State Warriors,11,SG,26,6.6,215,Washington State,4200000.0
+Player_18,Golden State Warriors,23,SF,21,6.7,220,,1800000.0
+Player_19,Los Angeles Lakers,6,SF,38,6.9,250,,44474988.0
+Player_20,Los Angeles Lakers,3,PF,30,6.10,253,Kentucky,37980720.0
+Player_21,Los Angeles Lakers,15,C,29,6.11,265,Texas,9800000.0
+Player_22,Los Angeles Lakers,1,PG,24,6.3,190,UCLA,2500000.0
+Player_23,Miami Heat,22,PF,33,6.7,230,Marquette,18200000.0
+Player_24,Miami Heat,14,SG,27,6.4,205,,7200000.0
+Player_25,Utah Jazz,2,PG,23,6.1,185,Gonzaga,3100000.0
+Player_26,Utah Jazz,27,SF,28,6.8,225,,5400000.0
+Player_27,Chicago Bulls,5,PG,21,6.0,170,,1200000.0
+Player_28,Chicago Bulls,34,PF,24,6.10,240,Duke,4500000.0
+Player_29,Boston Celtics,36,C,31,7.0,255,,8200000.0
+Player_30,Boston Celtics,13,SG,26,6.5,210,Arizona,6100000.0
+Player_31,Los Angeles Lakers,7,PG,25,6.2,185,,3100000.0
+Player_32,Los Angeles Lakers,12,SG,28,6.5,205,Arizona,5600000.0
+Player_33,Los Angeles Lakers,40,PF,32,6.9,245,,9100000.0
+Player_34,Golden State Warriors,2,SG,24,6.6,210,UCLA,2800000.0
+Player_35,Golden State Warriors,5,SF,27,6.8,225,,4700000.0
+Player_36,Golden State Warriors,21,C,30,7.1,260,Kansas,8600000.0
+Player_37,Miami Heat,55,PF,26,6.7,230,,6200000.0
+Player_38,Miami Heat,8,PG,22,6.1,175,Duke,1900000.0
+Player_39,Miami Heat,31,SF,29,6.9,240,,7800000.0
+Player_40,Chicago Bulls,10,SG,24,6.4,200,Illinois,3400000.0
+Player_41,Chicago Bulls,22,PF,28,6.10,250,,8200000.0
+Player_42,Chicago Bulls,3,PG,21,6.0,170,,1100000.0
+Player_43,Boston Celtics,4,SG,27,6.5,210,Texas Tech,5100000.0
+Player_44,Boston Celtics,42,C,33,7.0,255,,9300000.0
+Player_45,Boston Celtics,11,SF,25,6.8,225,Florida,4500000.0
+Player_46,Utah Jazz,15,C,29,7.1,265,,8800000.0
+Player_47,Utah Jazz,0,SG,23,6.4,195,USC,2600000.0
+Player_48,Utah Jazz,6,PG,27,6.2,185,,3900000.0
+Player_49,Utah Jazz,33,PF,31,6.9,245,Indiana,7700000.0
+Player_50,Los Angeles Lakers,9,SG,26,6.6,215,,5300000.0
+Player_51,Los Angeles Lakers,14,PF,34,6.10,250,,10200000.0
+Player_52,Los Angeles Lakers,1,PG,22,6.1,175,UCLA,2100000.0
+Player_53,Golden State Warriors,32,C,28,7.0,258,,6900000.0
+Player_54,Golden State Warriors,9,SF,26,6.7,222,Colorado,4200000.0
+Player_55,Golden State Warriors,3,PG,24,6.3,190,,3000000.0
+Player_56,Miami Heat,13,SG,29,6.5,210,Kentucky,6400000.0
+Player_57,Miami Heat,41,PF,32,6.8,235,,8700000.0
+Player_58,Miami Heat,0,PG,21,6.0,170,,980000.0
+Player_59,Chicago Bulls,24,SF,27,6.7,225,North Carolina,5600000.0
+Player_60,Chicago Bulls,50,C,30,7.1,260,,9100000.0
+Player_61,Chicago Bulls,8,PG,23,6.2,180,,2400000.0
+Player_62,Boston Celtics,26,PF,31,6.9,245,LSU,7600000.0
+Player_63,Boston Celtics,5,PG,22,6.1,175,,1200000.0
+Player_64,Boston Celtics,18,SG,28,6.5,205,Ohio State,4900000.0
+Player_65,Utah Jazz,44,PF,33,6.10,250,,8400000.0
+Player_66,Utah Jazz,7,PG,25,6.2,185,Gonzaga,3200000.0
+Player_67,Utah Jazz,20,SF,29,6.8,230,,6100000.0
+Player_68,Los Angeles Lakers,27,C,31,7.0,255,Texas,8900000.0
+Player_69,Los Angeles Lakers,2,SG,24,6.4,198,,3500000.0
+Player_70,Los Angeles Lakers,39,PF,34,6.9,248,,9700000.0
+Player_71,Golden State Warriors,4,PG,22,6.1,175,,1300000.0
+Player_72,Golden State Warriors,19,SF,28,6.7,225,Michigan,5800000.0
+Player_73,Golden State Warriors,52,C,30,7.2,268,,9200000.0
+Player_74,Miami Heat,16,SG,26,6.5,205,Florida State,4600000.0
+Player_75,Miami Heat,23,SF,32,6.8,235,,8300000.0
+Player_76,Miami Heat,6,PG,21,6.0,170,,1000000.0
+Player_77,Chicago Bulls,11,SG,25,6.6,210,Kansas State,3800000.0
+Player_78,Chicago Bulls,45,PF,29,6.10,250,,7200000.0
+Player_79,Chicago Bulls,0,PG,22,6.1,175,,1500000.0
+Player_80,Boston Celtics,20,SF,28,6.7,225,Villanova,5900000.0
+Player_81,Boston Celtics,54,C,34,7.1,260,,9400000.0
+Player_82,Boston Celtics,9,PG,24,6.2,180,,2600000.0
+Player_83,Utah Jazz,35,PF,31,6.9,245,Arizona State,7600000.0
+Player_84,Utah Jazz,4,SG,26,6.5,205,,4200000.0
+Player_85,Utah Jazz,28,SF,29,6.8,230,,6100000.0
+Player_86,Los Angeles Lakers,17,C,33,7.0,255,,8800000.0
+Player_87,Los Angeles Lakers,10,SG,25,6.4,200,USC,3600000.0
+Player_88,Los Angeles Lakers,6,PG,22,6.1,175,,1400000.0
+Player_89,Golden State Warriors,28,PF,30,6.9,245,,7900000.0
+Player_90,Golden State Warriors,8,PG,24,6.2,185,Stanford,2800000.0
+Player_91,Golden State Warriors,14,SG,27,6.5,210,,5200000.0
+Player_92,Miami Heat,32,C,31,7.1,262,,9100000.0
+Player_93,Miami Heat,5,PG,23,6.1,175,,2000000.0
+Player_94,Miami Heat,19,SF,28,6.8,230,Connecticut,6000000.0
+Player_95,Chicago Bulls,37,PF,34,6.10,250,,8700000.0
+Player_96,Chicago Bulls,1,PG,21,6.0,170,,1100000.0
+Player_97,Chicago Bulls,14,SG,26,6.5,205,Indiana,4300000.0
+Player_98,Boston Celtics,48,C,32,7.0,255,,9200000.0
+Player_99,Boston Celtics,6,PG,24,6.2,180,,2700000.0
+Player_100,Boston Celtics,21,SF,29,6.8,230,Virginia,6500000.0
+Player_101,Utah Jazz,12,SG,26,6.5,205,,4100000.0
+Player_102,Utah Jazz,34,PF,31,6.10,248,Arizona,7800000.0
+Player_103,Utah Jazz,3,PG,22,6.1,175,,1500000.0
+Player_104,Los Angeles Lakers,25,SF,29,6.8,230,,6200000.0
+Player_105,Los Angeles Lakers,51,C,33,7.1,262,Texas,9400000.0
+Player_106,Los Angeles Lakers,8,PG,24,6.2,180,,2800000.0
+Player_107,Golden State Warriors,17,SG,27,6.5,208,San Diego State,4500000.0
+Player_108,Golden State Warriors,41,PF,32,6.9,245,,8100000.0
+Player_109,Golden State Warriors,6,PG,21,6.0,170,,1200000.0
+Player_110,Miami Heat,9,SG,26,6.4,202,,3900000.0
+Player_111,Miami Heat,28,SF,30,6.8,232,Wake Forest,6900000.0
+Player_112,Miami Heat,52,C,34,7.2,268,,9600000.0
+Player_113,Chicago Bulls,15,PF,29,6.9,240,,7100000.0
+Player_114,Chicago Bulls,2,PG,23,6.1,178,Creighton,2600000.0
+Player_115,Chicago Bulls,33,SF,31,6.8,235,,6400000.0
+Player_116,Boston Celtics,7,SG,25,6.5,205,Arkansas,4200000.0
+Player_117,Boston Celtics,46,C,34,7.1,260,,9100000.0
+Player_118,Boston Celtics,11,PG,22,6.2,180,,1900000.0
+Player_119,Utah Jazz,23,SF,28,6.7,228,Colorado State,5700000.0
+Player_120,Utah Jazz,50,C,32,7.0,255,,8900000.0
+Player_121,Utah Jazz,4,PG,21,6.0,170,,1000000.0
+Player_122,Los Angeles Lakers,18,SG,27,6.6,210,Ohio State,4800000.0
+Player_123,Los Angeles Lakers,37,PF,33,6.10,250,,8500000.0
+Player_124,Los Angeles Lakers,9,PG,24,6.2,182,,3000000.0
+Player_125,Golden State Warriors,26,SF,29,6.8,230,UNLV,6200000.0
+Player_126,Golden State Warriors,53,C,34,7.1,265,,9700000.0
+Player_127,Golden State Warriors,1,PG,22,6.1,175,,1400000.0
+Player_128,Miami Heat,20,SG,28,6.5,210,,5100000.0
+Player_129,Miami Heat,44,PF,31,6.9,245,LSU,7600000.0
+Player_130,Miami Heat,7,PG,23,6.1,178,,2300000.0
+Player_131,Chicago Bulls,29,SF,30,6.8,232,Memphis,6500000.0
+Player_132,Chicago Bulls,58,C,35,7.2,270,,9900000.0
+Player_133,Chicago Bulls,6,PG,21,6.0,170,,1050000.0
+Player_134,Boston Celtics,19,SG,26,6.5,205,Virginia Tech,4300000.0
+Player_135,Boston Celtics,40,PF,32,6.10,248,,8200000.0
+Player_136,Boston Celtics,2,PG,24,6.2,180,,2700000.0
+Player_137,Utah Jazz,31,SF,29,6.8,230,,6100000.0
+Player_138,Utah Jazz,55,C,34,7.1,262,Florida,9500000.0
+Player_139,Utah Jazz,10,SG,25,6.4,200,,3600000.0
+Player_140,Los Angeles Lakers,42,PF,31,6.9,245,,7800000.0
+Player_141,Los Angeles Lakers,3,PG,22,6.1,175,,1800000.0
+Player_142,Los Angeles Lakers,21,SF,28,6.7,225,Georgetown,5900000.0
+Player_143,Golden State Warriors,47,C,33,7.0,258,,9000000.0
+Player_144,Golden State Warriors,12,SG,26,6.5,205,,4700000.0
+Player_145,Golden State Warriors,9,PG,23,6.2,180,,2600000.0
+Player_146,Miami Heat,35,PF,30,6.9,242,Alabama,7300000.0
+Player_147,Miami Heat,1,PG,21,6.0,170,,1000000.0
+Player_148,Miami Heat,17,SF,27,6.8,228,,5200000.0
+Player_149,Chicago Bulls,49,C,34,7.1,265,,9300000.0
+Player_150,Chicago Bulls,8,SG,25,6.4,200,Seton Hall,3800000.0
+Player_151,Chicago Bulls,0,PG,22,6.1,175,,1600000.0
+Player_152,Boston Celtics,27,PF,31,6.9,245,,7600000.0
+Player_153,Boston Celtics,52,C,35,7.2,268,,9800000.0
+Player_154,Boston Celtics,14,SG,26,6.5,205,Notre Dame,4500000.0
+Player_155,Utah Jazz,6,PG,23,6.2,180,,2400000.0
+Player_156,Utah Jazz,39,SF,30,6.8,232,,6400000.0
+Player_157,Utah Jazz,60,C,34,7.1,265,,9700000.0
+Player_158,Los Angeles Lakers,11,SG,27,6.6,210,Texas A&M,4900000.0
+Player_159,Los Angeles Lakers,5,PG,24,6.2,180,,3000000.0
+Player_160,Los Angeles Lakers,33,PF,32,6.10,250,,8100000.0
+Player_161,Golden State Warriors,18,SF,29,6.8,230,Arizona,6200000.0
+Player_162,Golden State Warriors,57,C,35,7.2,270,,9900000.0
+Player_163,Golden State Warriors,4,PG,22,6.1,175,,1500000.0
+Player_164,Miami Heat,24,SG,26,6.5,205,,4100000.0
+Player_165,Miami Heat,48,PF,31,6.9,245,Purdue,7600000.0
+Player_166,Miami Heat,2,PG,23,6.1,178,,2300000.0
+Player_167,Chicago Bulls,38,SF,30,6.8,232,,6500000.0
+Player_168,Chicago Bulls,59,C,35,7.2,270,,9900000.0
+Player_169,Chicago Bulls,7,PG,21,6.0,170,,1050000.0
+Player_170,Boston Celtics,16,SG,25,6.4,200,Florida State,3900000.0
+Player_171,Boston Celtics,41,PF,32,6.10,248,,8200000.0
+Player_172,Boston Celtics,3,PG,24,6.2,180,,2800000.0
+Player_173,Utah Jazz,22,SF,28,6.7,225,San Jose State,5700000.0
+Player_174,Utah Jazz,56,C,34,7.1,262,,9500000.0
+Player_175,Utah Jazz,13,SG,26,6.5,205,,4200000.0
+Player_176,Los Angeles Lakers,46,PF,31,6.9,245,,7800000.0
+Player_177,Los Angeles Lakers,4,PG,22,6.1,175,,1800000.0
+Player_178,Los Angeles Lakers,26,SF,29,6.8,230,Missouri,6100000.0
+Player_179,Golden State Warriors,51,C,33,7.0,258,,9000000.0
+Player_180,Golden State Warriors,10,SG,26,6.5,205,,4700000.0
+Player_181,Golden State Warriors,2,PG,23,6.2,180,,2600000.0
+Player_182,Miami Heat,34,PF,30,6.9,242,,7300000.0
+Player_183,Miami Heat,6,PG,21,6.0,170,,1000000.0
+Player_184,Miami Heat,18,SF,27,6.8,228,,5200000.0
+Player_185,Chicago Bulls,53,C,34,7.1,265,,9300000.0
+Player_186,Chicago Bulls,9,SG,25,6.4,200,St. John’s,3800000.0
+Player_187,Chicago Bulls,1,PG,22,6.1,175,,1600000.0
+Player_188,Boston Celtics,30,PF,31,6.9,245,,7600000.0
+Player_189,Boston Celtics,55,C,35,7.2,268,,9800000.0
+Player_190,Boston Celtics,17,SG,26,6.5,205,Miami,4500000.0
+Player_191,Utah Jazz,8,PG,23,6.2,180,,2400000.0
+Player_192,Utah Jazz,43,SF,30,6.8,232,,6400000.0
+Player_193,Utah Jazz,61,C,34,7.1,265,,9700000.0
+Player_194,Los Angeles Lakers,19,SG,27,6.6,210,California,4900000.0
+Player_195,Los Angeles Lakers,6,PG,24,6.2,180,,3000000.0
+Player_196,Los Angeles Lakers,35,PF,32,6.10,250,,8100000.0
+Player_197,Golden State Warriors,21,SF,29,6.8,230,USF,6200000.0
+Player_198,Golden State Warriors,58,C,35,7.2,270,,9900000.0
+Player_199,Golden State Warriors,5,PG,22,6.1,175,,1500000.0
+Player_200,Miami Heat,27,SG,26,6.5,205,,4100000.0
+Player_201,Chicago Bulls,12,PG,23,6.1,175,,2400000.0
+Player_202,Chicago Bulls,36,SF,30,6.8,232,,6500000.0
+Player_203,Chicago Bulls,54,C,34,7.1,265,,9700000.0
+Player_204,Boston Celtics,22,SG,26,6.5,205,Georgetown,4300000.0
+Player_205,Boston Celtics,47,PF,32,6.10,248,,8200000.0
+Player_206,Boston Celtics,13,PG,24,6.2,180,,2800000.0
+Player_207,Utah Jazz,30,SF,28,6.7,225,,5700000.0
+Player_208,Utah Jazz,59,C,34,7.1,262,,9500000.0
+Player_209,Utah Jazz,14,SG,26,6.5,205,,4200000.0
+Player_210,Los Angeles Lakers,48,PF,31,6.9,245,,7800000.0
+Player_211,Los Angeles Lakers,3,PG,22,6.1,175,,1800000.0
+Player_212,Los Angeles Lakers,26,SF,29,6.8,230,Missouri,6100000.0
+Player_213,Golden State Warriors,51,C,33,7.0,258,,9000000.0
+Player_214,Golden State Warriors,10,SG,26,6.5,205,,4700000.0
+Player_215,Golden State Warriors,2,PG,23,6.2,180,,2600000.0
+Player_216,Miami Heat,34,PF,30,6.9,242,,7300000.0
+Player_217,Miami Heat,6,PG,21,6.0,170,,1000000.0
+Player_218,Miami Heat,18,SF,27,6.8,228,,5200000.0
+Player_219,Chicago Bulls,53,C,34,7.1,265,,9300000.0
+Player_220,Chicago Bulls,9,SG,25,6.4,200,St. John’s,3800000.0
+Player_221,Chicago Bulls,1,PG,22,6.1,175,,1600000.0
+Player_222,Boston Celtics,30,PF,31,6.9,245,,7600000.0
+Player_223,Boston Celtics,55,C,35,7.2,268,,9800000.0
+Player_224,Boston Celtics,17,SG,26,6.5,205,Miami,4500000.0
+Player_225,Utah Jazz,8,PG,23,6.2,180,,2400000.0
+Player_226,Utah Jazz,43,SF,30,6.8,232,,6400000.0
+Player_227,Utah Jazz,61,C,34,7.1,265,,9700000.0
+Player_228,Los Angeles Lakers,19,SG,27,6.6,210,California,4900000.0
+Player_229,Los Angeles Lakers,6,PG,24,6.2,180,,3000000.0
+Player_230,Los Angeles Lakers,35,PF,32,6.10,250,,8100000.0
+Player_231,Golden State Warriors,21,SF,29,6.8,230,USF,6200000.0
+Player_232,Golden State Warriors,58,C,35,7.2,270,,9900000.0
+Player_233,Golden State Warriors,5,PG,22,6.1,175,,1500000.0
+Player_234,Miami Heat,27,SG,26,6.5,205,,4100000.0
+Player_235,Miami Heat,49,PF,31,6.9,245,Purdue,7600000.0
+Player_236,Miami Heat,2,PG,23,6.1,178,,2300000.0
+Player_237,Chicago Bulls,38,SF,30,6.8,232,,6500000.0
+Player_238,Chicago Bulls,59,C,35,7.2,270,,9900000.0
+Player_239,Chicago Bulls,7,PG,21,6.0,170,,1050000.0
+Player_240,Boston Celtics,16,SG,25,6.4,200,Florida State,3900000.0
+Player_241,Boston Celtics,41,PF,32,6.10,248,,8200000.0
+Player_242,Boston Celtics,3,PG,24,6.2,180,,2800000.0
+Player_243,Utah Jazz,22,SF,28,6.7,225,San Jose State,5700000.0
+Player_244,Utah Jazz,56,C,34,7.1,262,,9500000.0
+Player_245,Utah Jazz,13,SG,26,6.5,205,,4200000.0
+Player_246,Los Angeles Lakers,46,PF,31,6.9,245,,7800000.0
+Player_247,Los Angeles Lakers,4,PG,22,6.1,175,,1800000.0
+Player_248,Los Angeles Lakers,26,SF,29,6.8,230,Missouri,6100000.0
+Player_249,Golden State Warriors,51,C,33,7.0,258,,9000000.0
+Player_250,Golden State Warriors,10,SG,26,6.5,205,,4700000.0
+Player_251,Golden State Warriors,2,PG,23,6.2,180,,2600000.0
+Player_252,Miami Heat,34,PF,30,6.9,242,,7300000.0
+Player_253,Miami Heat,6,PG,21,6.0,170,,1000000.0
+Player_254,Miami Heat,18,SF,27,6.8,228,,5200000.0
+Player_255,Chicago Bulls,53,C,34,7.1,265,,9300000.0
+Player_256,Chicago Bulls,9,SG,25,6.4,200,St. John’s,3800000.0
+Player_257,Chicago Bulls,1,PG,22,6.1,175,,1600000.0
+Player_258,Boston Celtics,30,PF,31,6.9,245,,7600000.0
+Player_259,Boston Celtics,55,C,35,7.2,268,,9800000.0
+Player_260,Boston Celtics,17,SG,26,6.5,205,Miami,4500000.0
+Player_261,Utah Jazz,8,PG,23,6.2,180,,2400000.0
+Player_262,Utah Jazz,43,SF,30,6.8,232,,6400000.0
+Player_263,Utah Jazz,61,C,34,7.1,265,,9700000.0
+Player_264,Los Angeles Lakers,19,SG,27,6.6,210,California,4900000.0
+Player_265,Los Angeles Lakers,6,PG,24,6.2,180,,3000000.0
+Player_266,Los Angeles Lakers,35,PF,32,6.10,250,,8100000.0
+Player_267,Golden State Warriors,21,SF,29,6.8,230,USF,6200000.0
+Player_268,Golden State Warriors,58,C,35,7.2,270,,9900000.0
+Player_269,Golden State Warriors,5,PG,22,6.1,175,,1500000.0
+Player_270,Miami Heat,27,SG,26,6.5,205,,4100000.0
+Player_271,Miami Heat,49,PF,31,6.9,245,Purdue,7600000.0
+Player_272,Miami Heat,2,PG,23,6.1,178,,2300000.0
+Player_273,Chicago Bulls,38,SF,30,6.8,232,,6500000.0
+Player_274,Chicago Bulls,59,C,35,7.2,270,,9900000.0
+Player_275,Chicago Bulls,7,PG,21,6.0,170,,1050000.0
+Player_276,Boston Celtics,16,SG,25,6.4,200,Florida State,3900000.0
+Player_277,Boston Celtics,41,PF,32,6.10,248,,8200000.0
+Player_278,Boston Celtics,3,PG,24,6.2,180,,2800000.0
+Player_279,Utah Jazz,22,SF,28,6.7,225,San Jose State,5700000.0
+Player_280,Utah Jazz,56,C,34,7.1,262,,9500000.0
+Player_281,Utah Jazz,13,SG,26,6.5,205,,4200000.0
+Player_282,Los Angeles Lakers,46,PF,31,6.9,245,,7800000.0
+Player_283,Los Angeles Lakers,4,PG,22,6.1,175,,1800000.0
+Player_284,Los Angeles Lakers,26,SF,29,6.8,230,Missouri,6100000.0
+Player_285,Golden State Warriors,51,C,33,7.0,258,,9000000.0
+Player_286,Golden State Warriors,10,SG,26,6.5,205,,4700000.0
+Player_287,Golden State Warriors,2,PG,23,6.2,180,,2600000.0
+Player_288,Miami Heat,34,PF,30,6.9,242,,7300000.0
+Player_289,Miami Heat,6,PG,21,6.0,170,,1000000.0
+Player_290,Miami Heat,18,SF,27,6.8,228,,5200000.0
+Player_291,Chicago Bulls,53,C,34,7.1,265,,9300000.0
+Player_292,Chicago Bulls,9,SG,25,6.4,200,St. John’s,3800000.0
+Player_293,Chicago Bulls,1,PG,22,6.1,175,,1600000.0
+Player_294,Boston Celtics,30,PF,31,6.9,245,,7600000.0
+Player_295,Boston Celtics,55,C,35,7.2,268,,9800000.0
+Player_296,Boston Celtics,17,SG,26,6.5,205,Miami,4500000.0
+Player_297,Utah Jazz,8,PG,23,6.2,180,,2400000.0
+Player_298,Utah Jazz,43,SF,30,6.8,232,,6400000.0
+Player_299,Utah Jazz,61,C,34,7.1,265,,9700000.0
+Player_300,Los Angeles Lakers,19,SG,27,6.6,210,California,4900000.0
+Player_301,Golden State Warriors,15,SG,25,6.5,205,,4800000.0
+Player_302,Golden State Warriors,33,SF,28,6.8,228,USC,6100000.0
+Player_303,Golden State Warriors,52,C,32,7.0,260,,9200000.0
+Player_304,Miami Heat,12,PG,22,6.1,175,,1900000.0
+Player_305,Miami Heat,37,SF,29,6.8,230,,6000000.0
+Player_306,Miami Heat,54,C,33,7.1,268,,9700000.0
+Player_307,Chicago Bulls,11,SG,24,6.4,200,Illinois,4000000.0
+Player_308,Chicago Bulls,44,PF,31,6.10,252,,8200000.0
+Player_309,Chicago Bulls,58,C,35,7.2,272,,9900000.0
+Player_310,Boston Celtics,25,PG,23,6.2,180,,2800000.0
+Player_311,Boston Celtics,39,SF,27,6.7,225,,5500000.0
+Player_312,Boston Celtics,60,C,34,7.1,266,,9600000.0
+Player_313,Utah Jazz,5,PG,21,6.0,170,,1000000.0
+Player_314,Utah Jazz,29,SF,28,6.8,230,Utah,6300000.0
+Player_315,Utah Jazz,57,C,34,7.1,264,,9700000.0
+Player_316,Los Angeles Lakers,14,SG,26,6.6,210,,4900000.0
+Player_317,Los Angeles Lakers,32,SF,30,6.9,240,,8000000.0
+Player_318,Los Angeles Lakers,50,C,33,7.0,258,,9000000.0
+Player_319,Golden State Warriors,9,PG,22,6.1,175,,1500000.0
+Player_320,Golden State Warriors,27,SG,26,6.5,205,,4600000.0
+Player_321,Golden State Warriors,36,SF,29,6.8,232,,6200000.0
+Player_322,Miami Heat,3,PG,23,6.1,178,,2300000.0
+Player_323,Miami Heat,15,SG,27,6.5,205,,4100000.0
+Player_324,Miami Heat,31,PF,31,6.9,245,Miami,7600000.0
+Player_325,Chicago Bulls,18,PG,22,6.1,175,,1600000.0
+Player_326,Chicago Bulls,21,SG,25,6.4,200,St. John’s,3800000.0
+Player_327,Chicago Bulls,49,PF,32,6.10,250,,8100000.0
+Player_328,Boston Celtics,7,PG,24,6.2,180,,2800000.0
+Player_329,Boston Celtics,20,SF,28,6.7,225,,5700000.0
+Player_330,Boston Celtics,45,C,34,7.1,266,,9600000.0
+Player_331,Utah Jazz,6,PG,23,6.2,180,,2400000.0
+Player_332,Utah Jazz,24,SG,26,6.5,205,,4200000.0
+Player_333,Utah Jazz,41,PF,31,6.9,245,,7800000.0
+Player_334,Los Angeles Lakers,1,PG,22,6.1,175,,1800000.0
+Player_335,Los Angeles Lakers,17,SG,27,6.6,210,California,4900000.0
+Player_336,Los Angeles Lakers,38,C,34,7.1,265,,9300000.0
+Player_337,Golden State Warriors,4,PG,23,6.2,180,,2600000.0
+Player_338,Golden State Warriors,22,SG,26,6.5,205,,4700000.0
+Player_339,Golden State Warriors,40,SF,29,6.8,230,USF,6200000.0
+Player_340,Miami Heat,8,PG,21,6.0,170,,1000000.0
+Player_341,Miami Heat,20,SG,26,6.5,205,,4100000.0
+Player_342,Miami Heat,36,PF,30,6.9,242,,7300000.0
+Player_343,Chicago Bulls,3,PG,22,6.1,175,,1600000.0
+Player_344,Chicago Bulls,12,SG,25,6.4,200,St. John’s,3800000.0
+Player_345,Chicago Bulls,55,C,34,7.1,265,,9300000.0
+Player_346,Boston Celtics,8,PG,24,6.2,180,,2800000.0
+Player_347,Boston Celtics,18,SG,26,6.5,205,Miami,4500000.0
+Player_348,Boston Celtics,42,PF,32,6.10,248,,8200000.0
+Player_349,Utah Jazz,9,PG,23,6.2,180,,2400000.0
+Player_350,Utah Jazz,25,SF,28,6.7,225,,5700000.0
+Player_351,Utah Jazz,53,C,34,7.1,265,,9300000.0
+Player_352,Los Angeles Lakers,11,PG,22,6.1,175,,1800000.0
+Player_353,Los Angeles Lakers,28,SG,27,6.6,210,California,4900000.0
+Player_354,Los Angeles Lakers,39,PF,32,6.10,250,,8100000.0
+Player_355,Golden State Warriors,6,PG,23,6.2,180,,2600000.0
+Player_356,Golden State Warriors,19,SG,26,6.5,205,,4700000.0
+Player_357,Golden State Warriors,34,SF,29,6.8,230,,6200000.0
+Player_358,Miami Heat,4,PG,21,6.0,170,,1000000.0
+Player_359,Miami Heat,23,SG,26,6.5,205,,4100000.0
+Player_360,Miami Heat,41,PF,31,6.9,245,Purdue,7600000.0
+Player_361,Chicago Bulls,5,PG,22,6.1,175,,1600000.0
+Player_362,Chicago Bulls,14,SG,25,6.4,200,St. John’s,3800000.0
+Player_363,Chicago Bulls,57,C,35,7.2,270,,9900000.0
+Player_364,Boston Celtics,10,PG,24,6.2,180,,2800000.0
+Player_365,Boston Celtics,23,SG,26,6.5,205,Miami,4500000.0
+Player_366,Boston Celtics,46,PF,32,6.10,248,,8200000.0
+Player_367,Utah Jazz,12,PG,23,6.2,180,,2400000.0
+Player_368,Utah Jazz,30,SF,28,6.7,225,,5700000.0
+Player_369,Utah Jazz,59,C,34,7.1,265,,9500000.0
+Player_370,Los Angeles Lakers,2,PG,22,6.1,175,,1800000.0
+Player_371,Los Angeles Lakers,16,SG,27,6.6,210,California,4900000.0
+Player_372,Los Angeles Lakers,37,PF,32,6.10,250,,8100000.0
+Player_373,Golden State Warriors,7,PG,23,6.2,180,,2600000.0
+Player_374,Golden State Warriors,21,SG,26,6.5,205,,4700000.0
+Player_375,Golden State Warriors,38,SF,29,6.8,230,USF,6200000.0
+Player_376,Miami Heat,1,PG,21,6.0,170,,1000000.0
+Player_377,Miami Heat,19,SG,26,6.5,205,,4100000.0
+Player_378,Miami Heat,33,PF,31,6.9,245,Purdue,7600000.0
+Player_379,Chicago Bulls,2,PG,22,6.1,175,,1600000.0
+Player_380,Chicago Bulls,15,SG,25,6.4,200,St. John’s,3800000.0
+Player_381,Chicago Bulls,56,C,34,7.1,265,,9300000.0
+Player_382,Boston Celtics,9,PG,24,6.2,180,,2800000.0
+Player_383,Boston Celtics,22,SG,26,6.5,205,Miami,4500000.0
+Player_384,Boston Celtics,44,PF,32,6.10,248,,8200000.0
+Player_385,Utah Jazz,10,PG,23,6.2,180,,2400000.0
+Player_386,Utah Jazz,27,SF,28,6.7,225,,5700000.0
+Player_387,Utah Jazz,55,C,34,7.1,265,,9300000.0
+Player_388,Los Angeles Lakers,3,PG,22,6.1,175,,1800000.0
+Player_389,Los Angeles Lakers,13,SG,27,6.6,210,California,4900000.0
+Player_390,Los Angeles Lakers,36,PF,32,6.10,250,,8100000.0
+Player_391,Golden State Warriors,8,PG,23,6.2,180,,2600000.0
+Player_392,Golden State Warriors,24,SG,26,6.5,205,,4700000.0
+Player_393,Golden State Warriors,35,SF,29,6.8,230,,6200000.0
+Player_394,Miami Heat,5,PG,21,6.0,170,,1000000.0
+Player_395,Miami Heat,18,SG,26,6.5,205,,4100000.0
+Player_396,Miami Heat,40,PF,31,6.9,245,Purdue,7600000.0
+Player_397,Chicago Bulls,6,PG,22,6.1,175,,1600000.0
+Player_398,Chicago Bulls,13,SG,25,6.4,200,St. John’s,3800000.0
+Player_399,Chicago Bulls,54,C,34,7.1,265,,9300000.0
+Player_400,Boston Celtics,11,PG,24,6.2,180,,2800000.0
+Player_401,Boston Celtics,21,SG,26,6.5,205,Miami,4500000.0
+Player_402,Boston Celtics,47,PF,32,6.10,248,,8200000.0
+Player_403,Utah Jazz,7,PG,23,6.2,180,,2400000.0
+Player_404,Utah Jazz,31,SF,28,6.7,225,,5700000.0
+Player_405,Utah Jazz,58,C,34,7.2,270,,9900000.0
+Player_406,Los Angeles Lakers,10,PG,22,6.1,175,,1800000.0
+Player_407,Los Angeles Lakers,18,SG,27,6.6,210,California,4900000.0
+Player_408,Los Angeles Lakers,34,PF,32,6.10,250,,8100000.0
+Player_409,Golden State Warriors,11,PG,23,6.2,180,,2600000.0
+Player_410,Golden State Warriors,23,SG,26,6.5,205,,4700000.0
+Player_411,Golden State Warriors,37,SF,29,6.8,230,USF,6200000.0
+Player_412,Miami Heat,6,PG,21,6.0,170,,1000000.0
+Player_413,Miami Heat,22,SG,26,6.5,205,,4100000.0
+Player_414,Miami Heat,35,PF,31,6.9,245,Purdue,7600000.0
+Player_415,Chicago Bulls,7,PG,22,6.1,175,,1600000.0
+Player_416,Chicago Bulls,16,SG,25,6.4,200,St. John’s,3800000.0
+Player_417,Chicago Bulls,52,C,34,7.0,258,,9000000.0
+Player_418,Boston Celtics,12,PG,24,6.2,180,,2800000.0
+Player_419,Boston Celtics,19,SG,26,6.5,205,Miami,4500000.0
+Player_420,Boston Celtics,43,PF,32,6.10,248,,8200000.0
+Player_421,Utah Jazz,11,PG,23,6.2,180,,2400000.0
+Player_422,Utah Jazz,28,SF,28,6.7,225,,5700000.0
+Player_423,Utah Jazz,60,C,34,7.2,270,,9900000.0
+Player_424,Los Angeles Lakers,9,PG,22,6.1,175,,1800000.0
+Player_425,Los Angeles Lakers,20,SG,27,6.6,210,California,4900000.0
+Player_426,Los Angeles Lakers,33,PF,32,6.10,250,,8100000.0
+Player_427,Golden State Warriors,12,PG,23,6.2,180,,2600000.0
+Player_428,Golden State Warriors,25,SG,26,6.5,205,,4700000.0
+Player_429,Golden State Warriors,36,SF,29,6.8,230,,6200000.0
+Player_430,Miami Heat,7,PG,21,6.0,170,,1000000.0
+Player_431,Miami Heat,21,SG,26,6.5,205,,4100000.0
+Player_432,Miami Heat,38,PF,31,6.9,245,Purdue,7600000.0
+Player_433,Chicago Bulls,8,PG,22,6.1,175,,1600000.0
+Player_434,Chicago Bulls,17,SG,25,6.4,200,St. John’s,3800000.0
+Player_435,Chicago Bulls,50,C,33,7.0,258,,9000000.0
+Player_436,Boston Celtics,13,PG,24,6.2,180,,2800000.0
+Player_437,Boston Celtics,24,SG,26,6.5,205,Miami,4500000.0
+Player_438,Boston Celtics,48,PF,32,6.10,248,,8200000.0
+Player_439,Utah Jazz,14,PG,23,6.2,180,,2400000.0
+Player_440,Utah Jazz,32,SF,28,6.7,225,,5700000.0
+Player_441,Utah Jazz,62,C,34,7.2,270,,9900000.0
+Player_442,Los Angeles Lakers,15,PG,22,6.1,175,,1800000.0
+Player_443,Los Angeles Lakers,26,SG,27,6.6,210,California,4900000.0
+Player_444,Los Angeles Lakers,31,PF,32,6.10,250,,8100000.0
+Player_445,Golden State Warriors,13,PG,23,6.2,180,,2600000.0
+Player_446,Golden State Warriors,26,SG,26,6.5,205,,4700000.0
+Player_447,Golden State Warriors,39,SF,29,6.8,230,USF,6200000.0
+Player_448,Miami Heat,9,PG,21,6.0,170,,1000000.0
+Player_449,Miami Heat,24,SG,26,6.5,205,,4100000.0
+Player_450,Miami Heat,39,PF,31,6.9,245,Purdue,7600000.0
+Player_451,Chicago Bulls,10,PG,22,6.1,175,,1600000.0
+Player_452,Chicago Bulls,19,SG,25,6.4,200,St. John’s,3800000.0
+Player_453,Chicago Bulls,51,C,33,7.0,258,,9000000.0
+Player_454,Boston Celtics,14,PG,24,6.2,180,,2800000.0
+Player_455,Boston Celtics,27,SG,26,6.5,205,Miami,4500000.0
+Player_456,Boston Celtics,49,PF,32,6.10,248,,8200000.0
+Player_457,Utah Jazz,15,PG,23,6.2,180,,2400000.0
